@@ -4,7 +4,7 @@
 - 📫 How to reach me: ...
 
 ### Activity
-- 👩‍💼 Vice President of SOLUX(2021.3 ~ )
+- 👩‍💼 Vice President of [SOLUX](https://sm-solux.github.io/) (2021.3 ~ )
 
 ### Project
 - 💾 [solchive](https://github.com/Yena777/solchive.git) / SOLUX 역대 프로젝트 아카이빙 웹사이트
