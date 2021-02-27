@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... <pre>C, Python, Node.js</pre>
+- 🌱 I’m currently learning ... <p>C, Python, Node.js</p>
 - 👩‍🎓 I'm majoring in Software Convergence, at Sookmyung Women's University
 
 <!--
