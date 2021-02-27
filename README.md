@@ -11,7 +11,7 @@
 
 ***
 
-![Certificate_1](https://user-images.githubusercontent.com/76472415/109378758-62481800-7918-11eb-9d61-1a382dc4ec2d.jpg){: width="50%", height="50%"}
+![Certificate_1](https://user-images.githubusercontent.com/76472415/109378758-62481800-7918-11eb-9d61-1a382dc4ec2d.jpg){: width="50%" height="50%"}
 
 
 <!--
