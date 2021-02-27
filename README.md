@@ -10,6 +10,9 @@
 - 💾 [solchive](https://github.com/Yena777/solchive.git) / SOLUX 역대 프로젝트 아카이빙 웹사이트
 
 ***
+### Github Stats
+[![yena777's GitHub stats](https://github-readme-stats.vercel.app/api?username=yena777)](https://github.com/yena777/github-readme-stats)
+
 ### MPP Certificate
 <img src="https://user-images.githubusercontent.com/76472415/109378758-62481800-7918-11eb-9d61-1a382dc4ec2d.jpg" width="50%" height="50%" align="left">
 
