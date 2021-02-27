@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning `C`, `Python`, `Node.js`
 - 👩‍🎓 I'm majoring in Software Convergence, at Sookmyung Women's University
-- 📫 How to reach me: ...
+- 📫 How to reach me: parkyena01@sookmyung.ac.kr
 
 ### Activity
 - 👩‍💼 Vice President of [SOLUX](https://sm-solux.github.io/) (2021.3 ~ )
