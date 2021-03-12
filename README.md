@@ -12,6 +12,8 @@
 ***
 ### Github Stats
 ![Yena Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yena777&show_icons=true&theme=radical)
+
+### BOJ Stats
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeana0601)](https://solved.ac/yeana0601)
 
 ### Certificate
