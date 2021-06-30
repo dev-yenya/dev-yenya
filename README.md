@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning `C++`, `React'
+- 🌱 I’m currently learning `C++`, `React`
 - 👩‍🎓 I'm majoring in Software Convergence, at Sookmyung Women's University
 - 🎓 I graduated from Busan Science Highschool
 - 📫 How to reach me: parkyena01@sookmyung.ac.kr
