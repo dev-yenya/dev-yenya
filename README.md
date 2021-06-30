@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning `C`, `Python`, `Node.js`
+- 🌱 I’m currently learning `C++`, `React'
 - 👩‍🎓 I'm majoring in Software Convergence, at Sookmyung Women's University
 - 🎓 I graduated from Busan Science Highschool
 - 📫 How to reach me: parkyena01@sookmyung.ac.kr
@@ -11,7 +11,7 @@
 - 💦 Member of [IT's U](https://www.facebook.com/itsu.sm/about/?ref=page_internal)(2021.4 ~ )
 
 ### Project
-- 💾 [solchive](https://github.com/Yena777/solchive.git) / SOLUX 역대 프로젝트 아카이빙 웹사이트
+- 💾 [solchive](https://github.com/Yena777/solchive.git) / SOLUX 역대 프로젝트 아카이빙 웹사이트 (2020.3~2021.2)
 
 ***
 ### Github Stats
