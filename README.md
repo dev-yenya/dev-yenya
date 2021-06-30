@@ -20,11 +20,13 @@
 ### BOJ Stats
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeana0601)](https://solved.ac/yeana0601)
 
+
+<!--
 ### Certificate
 - 🕵️‍♀️ Microsoft Enterprise Security Fundamentals 
 <img src="https://user-images.githubusercontent.com/76472415/109378758-62481800-7918-11eb-9d61-1a382dc4ec2d.jpg" width="50%" height="50%" align="left">
 
-<!--
+
 **Yena777/Yena777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
