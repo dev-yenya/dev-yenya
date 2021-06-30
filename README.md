@@ -5,8 +5,10 @@
 - 📫 How to reach me: parkyena01@sookmyung.ac.kr
 
 ### Activity
-- 👩‍💼 Vice President of [SOLUX](https://solux.tistory.com/) (2021.3 ~ )
-- ✒ Exectutieves of ALGOS (2021.3 ~ )
+- Member of [SOLUX](https://solux.tistory.com/)(2020.3~2020.12)
+- 👩‍💼 Vice President of [SOLUX](https://solux.tistory.com/) (2021.1 ~ )
+- ✒ Exectutieves of [ALGOS] (2021.3 ~ )
+- 💦 Member of [IT's U](https://www.facebook.com/itsu.sm/about/?ref=page_internal)(2021.4 ~ )
 
 ### Project
 - 💾 [solchive](https://github.com/Yena777/solchive.git) / SOLUX 역대 프로젝트 아카이빙 웹사이트
