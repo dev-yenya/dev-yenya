@@ -10,6 +10,7 @@
 - Member of [SOLUX](https://solux.tistory.com/)(2020.3~2020.12)
 - 👩‍💼 Vice President of [SOLUX](https://solux.tistory.com/) (2021.1 ~ )
 - ✒ Exectutieves of ALGOS(Sookmyung ICPC Club) (2021.3 ~ )
+- 🧶 Exectutieves of ICPC Sinchon (2021.9 ~ )
 - 💦 Member of [IT's U](https://www.facebook.com/itsu.sm/about/?ref=page_internal)(2021.4 ~ )
 
 ### Project
