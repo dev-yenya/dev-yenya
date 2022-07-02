@@ -12,7 +12,7 @@
 - ✒ Exectutieves of ALGOS(Sookmyung ICPC Club) (2021.3 ~ )
 - 🧶 Exectutieves of ICPC Sinchon (2021.9 ~ )
 - 💦 Member of [IT's U](https://www.facebook.com/itsu.sm/about/?ref=page_internal)(2021.4 ~ 2022.07 )
-- 👩‍🎓 Intern of CGLAB(2022.2~)
+- 👩‍🎓 Intern of CGLAB(Computer Graphics Lab)(2022.2~)
 
 
 
