@@ -8,19 +8,18 @@
 ### Activity
 ***
 - Member of [SOLUX](https://solux.tistory.com/)(2020.3~2020.12)
-- 👩‍💼 Vice President of [SOLUX](https://solux.tistory.com/) (2021.1 ~ )
+- 👩‍💼 Vice President of [SOLUX](https://solux.tistory.com/) (2021.1 ~ 2022.1)
 - ✒ Exectutieves of ALGOS(Sookmyung ICPC Club) (2021.3 ~ )
 - 🧶 Exectutieves of ICPC Sinchon (2021.9 ~ )
-- 💦 Member of [IT's U](https://www.facebook.com/itsu.sm/about/?ref=page_internal)(2021.4 ~ )
+- 💦 Member of [IT's U](https://www.facebook.com/itsu.sm/about/?ref=page_internal)(2021.4 ~ 2022.07 )
+- 👩‍🎓 Intern of CGLAB(2022.2~)
 
-### Project
-***
-- 💾 [solchive](https://github.com/Yena777/solchive.git) / SOLUX 역대 프로젝트 아카이빙 웹사이트 (2020.3~2021.2)
 
 
 ### Github Stats
 ***
 ![Yena Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yena777&show_icons=true&theme=radical)
+
 
 ### Solved.ac Tier
 ***
@@ -44,6 +43,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+### Project
+***
+- 💾 [solchive](https://github.com/Yena777/solchive.git) / SOLUX 역대 프로젝트 아카이빙 웹사이트 (2020.3~2021.2)
 
 
 
