@@ -5,12 +5,16 @@
 #### 👋 Welcome my github profile
 - 🌱 I’m currently learning `Kotlin`, `NLP`
 
+<br/>
+<br/>
 
 ![Yena Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yenya&color=dark)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeana0601)](https://solved.ac/yeana0601)
+
 
 </div>
 <!--
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeana0601)](https://solved.ac/yeana0601)
 ### Certificate
 - 🕵️‍♀️ Microsoft Enterprise Security Fundamentals 
 <img src="https://user-images.githubusercontent.com/76472415/109378758-62481800-7918-11eb-9d61-1a382dc4ec2d.jpg" width="50%" height="50%" align="left">
