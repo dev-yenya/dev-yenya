@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning `Kotlin`, `NLP`
 - 👩‍🎓 I'm majoring in Software Convergence, at Sookmyung Women's University
 - 🎓 I graduated from Busan Science Highschool
-- 📫 How to reach me: parkyena01@sookmyung.ac.kr
+- 📫 How to reach me: dev.yenya@gmail.com
 
 ### Activity
 ***
