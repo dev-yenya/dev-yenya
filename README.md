@@ -2,13 +2,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=dev-yenya&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-#### 👋 Welcome my github profile
-🌱 I’m currently learning `Kotlin`, `NLP`
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/yena-park-774819261/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.notion.so/dev-yenya/Yena-Park-b977ee2185274e7b9cc0f03cbf689cc6">
+      <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Blog Badge"/>
+    </a>
+  </div>
+</div>
 
-<br/>
-<br/>
+<br />
 
+Hi. Currently I'm free now.
 
+If you want to contact me, please email me (dev.yenya@gmail.com), and visit my [portfolio](https://www.notion.so/dev-yenya/Yena-Park-b977ee2185274e7b9cc0f03cbf689cc6).
 
 
 </div>
