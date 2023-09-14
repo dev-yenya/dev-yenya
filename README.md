@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=dev-yenya&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/yena-park-774819261/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
